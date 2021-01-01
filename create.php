@@ -3,7 +3,7 @@ error_reporting(0);
 
 date_default_timezone_set('Asia/Jakarta');
 echo "===============================================\n";
-echo "           Buat Akun Spotify  \n"; 
+echo "           Auto Buat Akun Spotify  \n"; 
 echo "               Github : Mr-MRA    	\n";
 echo "               Telegram : @MRafliA    	\n";
 echo "               HUNTER BIN TEAM    	\n";
